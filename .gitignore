@@ -1,0 +1,9 @@
+FileDirectory/.idea
+FileDirectory/FIleDirectory.AcceptanceTests/bin
+FileDirectory/FIleDirectory.AcceptanceTests/obj
+FileDirectory/FileDirector.UnitTests/bin
+FileDirectory/FileDirector.UnitTests/obj
+FileDirectory/FileDirectory/bin/Debug
+FileDirectory/FileDirectory/obj
+FileDirectory/FileDirectory.IntegrationTests/bin
+FileDirectory/FileDirectory.IntegrationTests/obj
